@@ -39,7 +39,7 @@ export default function Home(props){
         return(
             <div class = "content">
                 <div>
-                <h1>Eventify</h1>
+                <h1>Eventure</h1>
                     <p className="tagline">
                         <em> ‘ Simplify ’ your Events </em>
                     </p>
